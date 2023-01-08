@@ -112,6 +112,7 @@ Berikut ini contoh penulisan bilangan pada sistem heksadesimal :
 ### LATIHAN
 
 ##### 1. Flow Chart “Memasak Roti”
+![img 1](modul1_latihan1)
 
 ## Pembuat
 
